@@ -36,7 +36,7 @@
 
 All character bonuses reach their max at lvl 50.
 
-| Stat increase per level:|
+| Stat increase per level:
 | ---- | ----
 | STR/INT | +1.5 
 | END/WIS | +1 
