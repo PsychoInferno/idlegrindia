@@ -1,36 +1,23 @@
-*I will update this gradually. Please make suggestions, I am open to ideas on how to structure this better.
-
-**v. 0.1 Initial Guide formatting**
-*Added overall structure*
-
-**v. 0.2 Added data for Pets, Characters and Artifacts**
-*Based on data from* **joannawww** and **Hisi**.
-
-**v. 0.3 Updated for game v. 005**
-*With a few corrections added, thanks to* **Elund**
-
-**v. 0.4 Monsters**
-*Some small corrections to skills, added future sections*
-*Additional contributions by* **joeywillems**
-
-**v. 0.45**
-*Corrected skills and added more bonuses and artifacts info*
-*Contributions by* **greedycave**, **banjomaster** and **Shoone**
-
-**v. 0.5 Updated for game v. 006**
-*Contributions by* **Aegis3d**
+**Changelog:**
+***v0.1 Initial Guide formatting*** - *Added overall structure*
+***v0.2 Added data for Pets, Characters and Artifacts*** - *Based on data from* **joannaww** and **Hisi**.
+***v0.3 Updated for game v. 005*** - *With a few corrections added, thanks to* **Elund**
+***v0.4 Monsters*** - *Some small corrections to skills, added future sections, additional contributions by* **joeywillems**
+***v0.45 Small Fixes*** - *Corrected skills and added more bonuses and artifacts info, and contributions by* **greedycave**, **banjomaster** and **Shoone**
+***v0.5 Updated for game v. 006*** - *Contributions by* **Aegis3d** and **Dauron**
 
 **Contents:**
 *1. Characters*
-*2. Forge*
-*3. Skills*
-*4. Pets *
-*5. Areas*
-*6. Challenges*
-*7. Artifacts*
-*8. Items*
-*9. Monsters*
-*10. Tips & Tricks*
+*2. Combat*
+*3. Forge*
+*4. Skills*
+*5. Pets *
+*6. Areas*
+*7. Challenges*
+*8. Artifacts*
+*9. Items*
+*10. Monsters*
+*11. Tips & Tricks*
 
 # 1.  Characters
 
@@ -53,9 +40,14 @@ All character bonuses reach their max at lvl 50.
 | Skeleton | +1500 max HP, +200 END, +200 WIS, +7.5% CC Resist
 | Light Elf | +10% physical/magical damage, +10% dodge
 
-# 2.  Forge
+# 2.  Combat
+Coming soon
 
-At the Forge, you have three currently implemented submenus: Craft, Enhance and Awaken.
+# 3.  Forge
+
+At the Forge, you have two following options: Craft, and Upgrade. 
+
+Upgrade contains Enhance and Awaken.
 
 *Enhancing* works in the following manner: each item can be enhanced 20 levels per Awakening level (star lvl):
 
@@ -71,6 +63,9 @@ At the Forge, you have three currently implemented submenus: Craft, Enhance and 
 *Awaken* allows you to increase the Awakening level of an item. You can only do it once the item has reached its maximum enhancing level.
 
 *Crafting*, surprisingly, allows you to craft items.
+
+Recipe bonuses work in the following manner:
+(add description of bonuses per recipes completed and awaken levels per recipe)
 
 ##### CRAFT
 
@@ -126,7 +121,7 @@ At the Forge, you have three currently implemented submenus: Craft, Enhance and 
 | Beret | 
 | Brutish Hat | 
 
-# 3.  Skills
+# 4.  Skills
 
 ###### 1-Handed Weapons
 
@@ -217,7 +212,7 @@ At the Forge, you have three currently implemented submenus: Craft, Enhance and 
 | 10 | +5% first strike | +10% crit resist | +25% faster skill learning
 
 
-# 4.  Pets
+# 5.  Pets
 
 ##### Normal pets:
 
@@ -245,7 +240,7 @@ B3T(3-4) means it drops from boss in world 3 from tiers 3 and 4
 | Dog | +100% crafting material | +1.5% crafting mat/lvl | B(1-4)T(3-4)
 | Turtle | +150% faster skill | +1% faster skill learning | D(1-4)T4 B(1-4)T4 
 | Dolphin | +300 END/WIS, +10% END/WIS | +1 END/WIS/lvl, +0.05% END/WIS/lvl | B(1-4)T4 
-| Lizard | +100% crit dmg | +0.5% crit dmg/lvl | 
+| Lizard | +100% crit dmg | +0.5% crit dmg/lvl 
 | Cactus | +25% crit chance | +0.1% crit chance/lvl
 
 ##### Mythic pets:
@@ -259,18 +254,20 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | 3 | 70 |
 | 4 | 150 |
 | 5 | 300 |
+| 6 | not yet implemented
 
-| Pet | Bonus Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 |
-| ---- | ---- | ---- | ---- | ---- | ---- | 
+| Pet | Bonus Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Lvl 6
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Fox | +25 phys dmg | +50 phys dmg | +100 phys dmg | +150 phys dmg | +200 phys dmg
 | Hare | +25 SPD | +50 SPD | +75 SPD | +100 SPD | +150 SPD
-| Owl | +25% EXP | +50% EXP | +75% EXP | +100% EXP |
+| Owl | +25% EXP | +50% EXP | +75% EXP | +100% EXP | +150% EXP
 | Unicorn | +25 mag dmg | +50 mag dmg | +100 mag dmg | + 150 mag dmg+ | +200 mag dmg
 | Rat | +75% Gold | +100% Gold | +150% Gold | +200% Gold | +300% Gold
-| Dog | +75% craft mat | +100% craft mat | +150% craft mat | +200% craft mat
-| Lizard |
+| Dog | +75% craft mat | +100% craft mat | +150% craft mat | +200% craft mat | +300% craft mat
+| Lizard | 
+| Cactus |
 
-# 5.  Areas
+# 6.  Areas
 
 | **World 1** |  
 | ---- | ---- | ---- | 
@@ -283,6 +280,8 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 4** | lvl 145 |
 | | **Tier 5** | lvl 253 |
 | | **Tier 6** | lvl 429 |
+| | **Tier 7** | lvl 704 |
+| | **Tier 8** | lvl 1045 |
 | **Boss** | Area 7 |
 | | *Difficulty*| |
 | | **Story** | lvl 12 |
@@ -290,6 +289,8 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 3** | lvl 120 |
 | | **Tier 4** | lvl 220 |
 | | **Tier 5** | lvl 385 |
+| | **Tier 6** | lvl 660 |
+| | **Tier 7** | lvl 990 |
 
 | **World 2** |  
 | ---- | ---- | ---- | 
@@ -301,12 +302,14 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 4** | lvl 165 |
 | | **Tier 5** | lvl 276 |
 | | **Tier 6** | lvl 462 |
+| | **Tier 7** | lvl 768 |
 | **Boss** | Area 20 |
 | | *Difficulty*| |
 | | **Story** | lvl 50 |
 | | **Tier 3** | lvl 140 |
 | | **Tier 4** | lvl 240 |
 | | **Tier 5** | lvl 420 |
+| | **Tier 6** | lvl 720 |
 
 | **World 3** |  
 | ---- | ---- | ---- | 
@@ -322,6 +325,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Story** | lvl 100 |
 | | **Tier 4** | lvl 260 |	
 | | **Tier 5** | lvl 455 |	
+| | **Tier 6** | lvl 780 |
 
 | **World 4** |  
 | ---- | ---- | ---- | 
@@ -335,6 +339,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | *Difficulty*| |
 | | **Story** | lvl 200 |
 | | **Tier 5** | lvl 490 |
+| | **Tier 6** | lvl 840 |
 
 | **World 5** |  
 | ---- | ---- | ---- | 
@@ -343,14 +348,17 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | *Difficulty*| |
 | | **Story** | lvl 230 |
 | | **Tier 6** | lvl 585 |
+| | **Tier 7** | lvl 984 |
 | **Boss** | Area 50 |
 | | *Difficulty*| |
 | | **Story** | lvl 350 |
 | | **Tier 6** | lvl 960 |					
 
-# 6.  Challenges
+# 7.  Challenges
 
-These challenges don't need to be completed in order. Whenever one is completed, a bonus is unlocked. The bonuses are listed after the table below.
+These challenges don't need to be completed in order. 
+Whenever one is completed, a bonus is unlocked. 
+The first table shows challenges per character, and the second shows the bonuses per number of challenges completed.
 
 | Human | Orc | Dark Elf | Skeleton | Light Elf |
 | ---- | ---- | ---- | ---- | ---- |
@@ -424,13 +432,13 @@ A bonus is unlocked when you complete one of the challenges. Please refer to the
 | 62 | Gold drop +300%
 | 63 | Crafting Material Drop +200%
 | 64 | Exp Gain +300%
-| 68 | ??
+| 68 | +75% faster Skill learning
 | 78 | ??
 | 80 | Max Awakening +1
 | 83 | ??
 | 98 | ??
 
-# 7.  Artifacts
+# 8.  Artifacts
 
 Artifact shards can be obtained from bosses. All percentages in their effects below refer to chance to activate effect, unless otherwise noted.
 
@@ -531,7 +539,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 4 |
 | 5 |
 
-# 8.  Items
+# 9.  Items
 
 ##### For weapons, armor and accessories:
 
@@ -580,7 +588,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 
 More coming soon!
 
-# 9.  Monsters
+# 10.  Monsters
 
 For the locations, the following standards are used:
 13 means Zone 13
@@ -589,22 +597,29 @@ For the locations, the following standards are used:
 
 | Monster | W1 | W2 | W3 | W4 | W5
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| Slime | 1-7 | 9-10, 19-20 | 5-6, 9-10, 25-30 | 8-9, 14-15, 38
-| Goblin | 2-4, 6-7 | 9-10, 19-20 | 5-6, 9-10, 26-30 | 8-9, 14-15, 38
-| Wasp | 3-4, 7 | 10, 20 | 14-15, 18-20, 27-30 | 24-30, 39
-| Wolf | 4, 7 | 10, 20 | 14-15, 18-20, 28-30 | 24-30, 39
-| Satyr | -- | 1-20 | 7-10, 25-30 | 10-11, 14-15, 38
-| Dryad | -- | 3-10, 13-20 | 7-10, 26-30 | 10-11, 14-15, 38
-| Archer | -- | 5-10, 15-20 | 16-20, 27-30 | 26-30, 39 
-| Mage | -- | 7-10, 17-20 | 16-20, 28-30 | 26-30, 39
-| Drunk | -- | -- | 1-30 | 12-15, 38
-| Thief | -- | -- | 3-10, 12-20, 22-30 | 12-15, 38
-| Assassin | -- | -- | 13-20, 23-30 | 28-30, 39
-| Enforcer | -- | -- | 24-30 | 28-30, 39 
-| Crab | -- | -- | -- | 1-40
-| Fish | -- | -- | -- | 4-40
-| Mermaid | -- | -- | -- | 20-40
-| Merman | -- | -- | -- | 20-40
+| Slime | 1-7 | 9-10, 19-20 | 5-6, 9-10, 25-30 | 8-9, 14-15, 38 | 8, 36
+| Goblin | 2-4, 6-7 | 9-10, 19-20 | 5-6, 9-10, 26-30 | 8-9, 14-15, 38 | 8, 36
+| Wasp | 3-4, 7 | 10, 20 | 14-15, 18-20, 27-30 | 24-30, 39 | 8, 36
+| Wolf | 4, 7 | 10, 20 | 14-15, 18-20, 28-30 | 24-30, 39 | 8, 36
+| Satyr | -- | 1-20 | 7-10, 25-30 | 10-11, 14-15, 38 | 9, 37
+| Dryad | -- | 3-10, 13-20 | 7-10, 26-30 | 10-11, 14-15, 38 | 9, 37
+| Archer | -- | 5-10, 15-20 | 16-20, 27-30 | 26-30, 39  | 9, 37
+| Mage | -- | 7-10, 17-20 | 16-20, 28-30 | 26-30, 39 | 9, 37
+| Drunk | -- | -- | 1-30 | 12-15, 38 | 18, 38
+| Thief | -- | -- | 3-10, 12-20, 22-30 | 12-15, 38 | 18, 38
+| Assassin | -- | -- | 13-20, 23-30 | 28-30, 39 | 18, 38
+| Enforcer | -- | -- | 24-30 | 28-30, 39  | 18, 38
+| Crab | -- | -- | -- | 1-40 | 19, 39
+| Fish | -- | -- | -- | 4-40 | 19, 39
+| Mermaid | -- | -- | -- | 20-40 | 19, 39
+| Merman | -- | -- | -- | 20-40 | 19, 39
+| Cactus | -- | -- | -- | -- | 1-50
+| Cobra | -- | -- | -- | -- | 3-10, 13-20, 23-50
+| Scorpion | -- | -- | -- | -- | 15-20, 25-50
+| Mummy | -- | -- | -- | -- | 17-20, 27-50
 
-# 10.  Tips and Tricks
+# 11.  Tips and Tricks
 Coming soon!
+##### Builds
+
+##### Optimal recipe usage
