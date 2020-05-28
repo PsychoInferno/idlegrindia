@@ -22,7 +22,7 @@
  * [Tips and Tricks](#tips-and-tricks)
 
 ## Characters
-
+###### [_back to top_](#contents)
 All character bonuses reach their max at lvl 50.
 
 | Stat increase per level:
@@ -43,9 +43,11 @@ All character bonuses reach their max at lvl 50.
 | Light Elf | +10% physical/magical damage, +10% dodge
 
 ## Combat
+###### [_back to top_](#contents)
 Coming soon
 
 ## Forge
+###### [_back to top_](#contents)
 
 At the Forge, you have two following options: Craft, and Upgrade. 
 
@@ -124,6 +126,7 @@ Recipe bonuses work in the following manner:
 | Brutish Hat | 
 
 ## Skills
+###### [_back to top_](#contents)
 
 ###### 1-Handed Weapons
 
@@ -215,6 +218,7 @@ Recipe bonuses work in the following manner:
 
 
 ## Pets
+###### [_back to top_](#contents)
 
 ##### Normal pets:
 
@@ -272,6 +276,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | Cactus | +10% crit chance | +12.5% crit chance | +15% crit chance
 
 ## Areas
+###### [_back to top_](#contents)
 
 | **World 1 -  Noobie Grasslands** |  
 | ---- | ---- | ---- | 
@@ -363,6 +368,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 7** | lvl 1440 |
 
 ## Challenges
+###### [_back to top_](#contents)
 
 These challenges don't need to be completed in order. 
 Whenever one is completed, a bonus is unlocked. 
@@ -447,6 +453,7 @@ A bonus is unlocked when you complete one of the challenges. Please refer to the
 | 98 | ??
 
 ## Artifacts
+###### [_back to top_](#contents)
 
 Artifact shards can be obtained from bosses. All percentages in their effects below refer to chance to activate effect, unless otherwise noted.
 
@@ -548,6 +555,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 5 |
 
 ## Items
+###### [_back to top_](#contents)
 
 ##### For weapons, armor and accessories:
 
@@ -597,6 +605,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 More coming soon!
 
 ## Monsters
+###### [_back to top_](#contents)
 
 For the locations, the following standards are used:
 13 means Zone 13
@@ -627,6 +636,7 @@ For the locations, the following standards are used:
 | Mummy | -- | -- | -- | -- | 17-20, 27-50
 
 ## Tips and Tricks
+###### [_back to top_](#contents)
 Coming soon!
 ##### Builds
 
