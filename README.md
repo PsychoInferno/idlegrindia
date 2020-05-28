@@ -1,3 +1,9 @@
+# The Almighty Idle Grindia Guide!
+<p align="center">
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  </a>
+</p>
 **Changelog:**<br>
 ***v0.1 Initial Guide formatting*** - *Added overall structure*<br>
 ***v0.2 Added data for Pets, Characters and Artifacts*** - *Based on data from* **joannaww** and **Hisi**.<br>
