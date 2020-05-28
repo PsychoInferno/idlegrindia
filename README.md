@@ -7,20 +7,21 @@
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ricardoprins/idlegrindia?style=flat-square">
 </p>
 <hr>
-**Contents:**
-* [Characters](#characters)
-* [Combat](#combat)
-*3. Forge*
-*4. Skills*
-*5. Pets *
-*6. Areas*
-*7. Challenges*
-*8. Artifacts*
-*9. Items*
-*10. Monsters*
-*11. Tips & Tricks*
 
-# Characters
+## Contents
+ * [Characters](#characters)
+ * [Combat](#combat)
+ * [Forge](#forge)
+ * [Skills](#skills)
+ * [Pets](#pets)
+ * [Areas](#areas)
+ * [Challenges](#challenges)
+ * [Artifacts](#artifacts)
+ * [Items](#items)
+ * [Monsters](#monsters)
+ * [Tips & Tricks](#tips-&-tricks)
+
+## Characters
 
 All character bonuses reach their max at lvl 50.
 
@@ -41,10 +42,10 @@ All character bonuses reach their max at lvl 50.
 | Skeleton | +1500 max HP, +200 END, +200 WIS, +7.5% CC Resist
 | Light Elf | +10% physical/magical damage, +10% dodge
 
-# 2.  Combat
+## Combat
 Coming soon
 
-# 3.  Forge
+## Forge
 
 At the Forge, you have two following options: Craft, and Upgrade. 
 
@@ -122,7 +123,7 @@ Recipe bonuses work in the following manner:
 | Beret | 
 | Brutish Hat | 
 
-# 4.  Skills
+## Skills
 
 ###### 1-Handed Weapons
 
@@ -213,7 +214,7 @@ Recipe bonuses work in the following manner:
 | 10 | +5% first strike | +10% crit resist | +25% faster skill learning
 
 
-# 5.  Pets
+## Pets
 
 ##### Normal pets:
 
@@ -270,7 +271,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | Lizard | +50% crit dmg | +75% crit dmg | +100% crit dmg
 | Cactus | +10% crit chance | +12.5% crit chance | +15% crit chance
 
-# 6.  Areas
+## Areas
 
 | **World 1 -  Noobie Grasslands** |  
 | ---- | ---- | ---- | 
@@ -361,7 +362,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 6** | lvl 960 |					
 | | **Tier 7** | lvl 1440 |
 
-# 7.  Challenges
+## Challenges
 
 These challenges don't need to be completed in order. 
 Whenever one is completed, a bonus is unlocked. 
@@ -445,7 +446,7 @@ A bonus is unlocked when you complete one of the challenges. Please refer to the
 | 83 | ??
 | 98 | ??
 
-# 8.  Artifacts
+## Artifacts
 
 Artifact shards can be obtained from bosses. All percentages in their effects below refer to chance to activate effect, unless otherwise noted.
 
@@ -546,7 +547,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 4 |
 | 5 |
 
-# 9.  Items
+## Items
 
 ##### For weapons, armor and accessories:
 
@@ -595,7 +596,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 
 More coming soon!
 
-# 10.  Monsters
+## Monsters
 
 For the locations, the following standards are used:
 13 means Zone 13
@@ -625,7 +626,7 @@ For the locations, the following standards are used:
 | Scorpion | -- | -- | -- | -- | 15-20, 25-50
 | Mummy | -- | -- | -- | -- | 17-20, 27-50
 
-# 11.  Tips and Tricks
+## Tips and Tricks
 Coming soon!
 ##### Builds
 
