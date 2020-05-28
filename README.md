@@ -19,7 +19,7 @@
  * [Artifacts](#artifacts)
  * [Items](#items)
  * [Monsters](#monsters)
- * [Tips & Tricks](#tips-&-tricks)
+ * [Tips and Tricks](#tips-and-tricks)
 
 ## Characters
 
