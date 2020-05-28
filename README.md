@@ -1,12 +1,12 @@
-**Changelog:**
-***v0.1 Initial Guide formatting*** - *Added overall structure*
-***v0.2 Added data for Pets, Characters and Artifacts*** - *Based on data from* **joannaww** and **Hisi**.
-***v0.3 Updated for game v. 005*** - *With a few corrections added, thanks to* **Elund**
-***v0.4 Monsters*** - *Some small corrections to skills, added future sections, additional contributions by* **joeywillems**
-***v0.45 Small Fixes*** - *Corrected skills and added more bonuses and artifacts info, and contributions by* **greedycave**, **banjomaster** and **Shoone**
-***v0.5 Updated for game v. 006*** - *Contributions by* **Aegis3d** and **Dauron**
-***v0.6 Updated for game v. 007*** - *Contributions by* **Shoone**
-
+**Changelog:**<br>
+***v0.1 Initial Guide formatting*** - *Added overall structure*<br>
+***v0.2 Added data for Pets, Characters and Artifacts*** - *Based on data from* **joannaww** and **Hisi**.<br>
+***v0.3 Updated for game v. 005*** - *With a few corrections added, thanks to* **Elund**<br>
+***v0.4 Monsters*** - *Some small corrections to skills, added future sections, additional contributions by* **joeywillems**<br>
+***v0.45 Small Fixes*** - *Corrected skills and added more bonuses and artifacts info, and contributions by* **greedycave**, **banjomaster** and **Shoone**<br>
+***v0.5 Updated for game v. 006*** - *Contributions by* **Aegis3d** and **Dauron**<br>
+***v0.6 Updated for game v. 007*** - *Contributions by* **Shoone**<br>
+<hr>
 **Contents:**
 *1. Characters*
 *2. Combat*
