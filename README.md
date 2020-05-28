@@ -3,19 +3,13 @@
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
   </a>
+  
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ricardoprins/idlegrindia?style=flat-square">
 </p>
-**Changelog:**<br>
-***v0.1 Initial Guide formatting*** - *Added overall structure*<br>
-***v0.2 Added data for Pets, Characters and Artifacts*** - *Based on data from* **joannaww** and **Hisi**.<br>
-***v0.3 Updated for game v. 005*** - *With a few corrections added, thanks to* **Elund**<br>
-***v0.4 Monsters*** - *Some small corrections to skills, added future sections, additional contributions by* **joeywillems**<br>
-***v0.45 Small Fixes*** - *Corrected skills and added more bonuses and artifacts info, and contributions by* **greedycave**, **banjomaster** and **Shoone**<br>
-***v0.5 Updated for game v. 006*** - *Contributions by* **Aegis3d** and **Dauron**<br>
-***v0.6 Updated for game v. 007*** - *Contributions by* **Shoone**<br>
 <hr>
 **Contents:**
-*1. Characters*
-*2. Combat*
+* [Characters](#characters)
+* [Combat](#combat)
 *3. Forge*
 *4. Skills*
 *5. Pets *
@@ -26,7 +20,7 @@
 *10. Monsters*
 *11. Tips & Tricks*
 
-# 1.  Characters
+# Characters
 
 All character bonuses reach their max at lvl 50.
 
