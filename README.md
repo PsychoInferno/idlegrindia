@@ -5,6 +5,7 @@
 ***v0.4 Monsters*** - *Some small corrections to skills, added future sections, additional contributions by* **joeywillems**
 ***v0.45 Small Fixes*** - *Corrected skills and added more bonuses and artifacts info, and contributions by* **greedycave**, **banjomaster** and **Shoone**
 ***v0.5 Updated for game v. 006*** - *Contributions by* **Aegis3d** and **Dauron**
+***v0.6 Updated for game v. 007*** - *Contributions by* **Shoone**
 
 **Contents:**
 *1. Characters*
@@ -87,7 +88,7 @@ Recipe bonuses work in the following manner:
 | ---- | ---- | ---- | ---- | ---- |
 | Leather Jacket | Plate Armor | Splint Armor
 | Uncommon Cloths | Fine Clothes | Rags
-| Heavy Armor | Medium Armor| Worn Armor
+| Heavy Armor | Medium Armor | Worn Armor
 | Studded Armor| Orcish Armor | Stinky Coat
 | Hero's Clothes | TREE Armor | Dentist Attire
 
@@ -95,21 +96,21 @@ Recipe bonuses work in the following manner:
 
 | **Tier 1:** | **Tier 2:** | **Tier 3:** | **Tier 4:** | **Tier 5:**
 | ---- | ---- | ---- | ---- | ---- |
-| Sandals |
-| Sneakers | 
-| Old Boots | 
-| Trainers | 
-| Running Shoes | 
+| Sandals | Boots | Socks | Flip Flops | Feet Protector
+| Sneakers | Heavy Boots | Ugly Shoes | Waterlogged Boots 
+| Old Boots | Heavier Boots | Ragged Shoes | Underwater Boots 
+| Trainers | Heaviest Boots | Tasteless Shoes | Flippers 
+| Running Shoes | Wooden Sandals | Scuzzy Shoes | Water Walkers 
 
 ###### Hands
 
 | **Tier 1:** | **Tier 2:** | **Tier 3:** | **Tier 4:** | **Tier 5:**
 | ---- | ---- | ---- | ---- | ---- |
-| Knuckles | 
-| Mittens | 
-| Cloth Gloves |
-| Bandages |
-| Oven Mitts | 
+| Knuckles | Extra Arms |
+| Mittens | Bear Arms 
+| Cloth Gloves | Hand Warmers
+| Bandages | Fake Hands 
+| Oven Mitts | TREE Gloves
 
 ###### Head
 
@@ -239,7 +240,7 @@ B3T(3-4) means it drops from boss in world 3 from tiers 3 and 4
 | Rat | +100% Gold | +1.5% gold/lvl | D(1-3)T(3-4) B(1-4)T(3-4)    
 | Dog | +100% crafting material | +1.5% crafting mat/lvl | B(1-4)T(3-4)
 | Turtle | +150% faster skill | +1% faster skill learning | D(1-4)T4 B(1-4)T4 
-| Dolphin | +300 END/WIS, +10% END/WIS | +1 END/WIS/lvl, +0.05% END/WIS/lvl | B(1-4)T4 
+| Dolphin | +300 END/WIS, +5% END/WIS | +1 END/WIS/lvl, +0.05% END/WIS/lvl | B(1-4)T4 
 | Lizard | +100% crit dmg | +0.5% crit dmg/lvl 
 | Cactus | +25% crit chance | +0.1% crit chance/lvl
 
@@ -254,22 +255,24 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | 3 | 70 |
 | 4 | 150 |
 | 5 | 300 |
-| 6 | not yet implemented
+| 6 | 600 |
 
 | Pet | Bonus Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Lvl 6
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Fox | +25 phys dmg | +50 phys dmg | +100 phys dmg | +150 phys dmg | +200 phys dmg
-| Hare | +25 SPD | +50 SPD | +75 SPD | +100 SPD | +150 SPD
-| Owl | +25% EXP | +50% EXP | +75% EXP | +100% EXP | +150% EXP
+| Hare | +25 SPD | +50 SPD | +75 SPD | +100 SPD | +150 SPD | +200 SPD
+| Owl | +25% EXP | +50% EXP | +75% EXP | +100% EXP | +150% EXP | +250% EXP
 | Unicorn | +25 mag dmg | +50 mag dmg | +100 mag dmg | + 150 mag dmg+ | +200 mag dmg
 | Rat | +75% Gold | +100% Gold | +150% Gold | +200% Gold | +300% Gold
-| Dog | +75% craft mat | +100% craft mat | +150% craft mat | +200% craft mat | +300% craft mat
-| Lizard | 
-| Cactus |
+| Dog | +75% craft mat | +100% craft mat | +150% craft mat | +200% craft mat | +300% craft mat | +500% craft mat
+| Turtle | +50% skill learning | +100% skill learning
+| Dolphin | +100 END/WIS +1% END/WIS | +150 END/WIS +1% END/WIS | +200 END/WIS +2% END/WIS
+| Lizard | +50% crit dmg | +75% crit dmg | +100% crit dmg
+| Cactus | +10% crit chance | +12.5% crit chance | +15% crit chance
 
 # 6.  Areas
 
-| **World 1** |  
+| **World 1 -  Noobie Grasslands** |  
 | ---- | ---- | ---- | 
 | **Areas** | 7 |
 | **Dungeon** | Area 5 |
@@ -292,7 +295,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 6** | lvl 660 |
 | | **Tier 7** | lvl 990 |
 
-| **World 2** |  
+| **World 2 - Forest of Super No Return ** |  
 | ---- | ---- | ---- | 
 | **Areas** | 20 |
 | **Dungeon** | Area 10 |
@@ -311,7 +314,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 5** | lvl 420 |
 | | **Tier 6** | lvl 720 |
 
-| **World 3** |  
+| **World 3 - Scuzz City** |  
 | ---- | ---- | ---- | 
 | **Areas** | 30 |
 | **Dungeon** | Area 5 |
@@ -320,6 +323,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 4** | lvl 185 |
 | | **Tier 5** | lvl 299 |
 | | **Tier 6** | lvl 507 |
+| | **Tier 7** | lvl 832 |
 | **Boss** | Area 30 |
 | | *Difficulty*| |
 | | **Story** | lvl 100 |
@@ -327,7 +331,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 5** | lvl 455 |	
 | | **Tier 6** | lvl 780 |
 
-| **World 4** |  
+| **World 4 - Salty Seaside** |  
 | ---- | ---- | ---- | 
 | **Areas** | 40 |
 | **Dungeon** | Area 10 |
@@ -335,13 +339,14 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Story** | lvl 125 |
 | | **Tier 5** | lvl 322 |
 | | **Tier 6** | lvl 546 |
+| | **Tier 7** | lvl 896 |
 | **Boss** | Area 40 |
 | | *Difficulty*| |
 | | **Story** | lvl 200 |
 | | **Tier 5** | lvl 490 |
 | | **Tier 6** | lvl 840 |
 
-| **World 5** |  
+| **World 5 - Plains of Peril** |  
 | ---- | ---- | ---- | 
 | **Areas** | 50 |
 | **Dungeon** | Area 10 |
@@ -349,10 +354,12 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Story** | lvl 230 |
 | | **Tier 6** | lvl 585 |
 | | **Tier 7** | lvl 984 |
+| | **Tier 8** | lvl 1470 |
 | **Boss** | Area 50 |
 | | *Difficulty*| |
 | | **Story** | lvl 350 |
 | | **Tier 6** | lvl 960 |					
+| | **Tier 7** | lvl 1440 |
 
 # 7.  Challenges
 
