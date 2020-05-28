@@ -278,7 +278,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 ## Areas
 ###### [_back to top_](#contents)
 
-| **World 1 -  Noobie Grasslands** |  
+| **World 1 - Noobie Grasslands** |  
 | ---- | ---- | ---- | 
 | **Areas** | 7 |
 | **Dungeon** | Area 5 |
@@ -301,7 +301,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 6** | lvl 660 |
 | | **Tier 7** | lvl 990 |
 
-| **World 2 - Forest of Super No Return ** |  
+| **World 2 - Forest of Super No Return** |  
 | ---- | ---- | ---- | 
 | **Areas** | 20 |
 | **Dungeon** | Area 10 |
