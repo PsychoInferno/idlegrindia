@@ -1,17 +1,11 @@
 # The Almighty Idle Grindia Guide!
 <p align="center">
-  <a href="http://makeapullrequest.com" target="_blank">
-    <img alt="Make a PR" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
-  </a>
-  
-  <a href="">
+  <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ricardoprins/idlegrindia?style=flat-square">
-  </a>
-  
-  <a href="">
+  <a href="https://twitter.com/thericardoprins">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/thericardoprins?label=follow%20me%20on%20Twitter&style=flat-square">
   </a>
-  <a href="">
+  <a href="https://github.com/ricardoprins">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ricardoprins?label=follow%20me%20on%20Github&style=flat-square">
   </a>
 </p>
