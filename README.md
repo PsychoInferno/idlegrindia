@@ -1,31 +1,33 @@
 # The Almighty Idle Grindia Guide!
 <p align="center">
-  <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ricardoprins/idlegrindia?style=flat-square">
-  <a href="https://twitter.com/thericardoprins">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/thericardoprins?label=follow%20me%20on%20Twitter&style=flat-square">
-  </a>
-  <a href="https://github.com/ricardoprins">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ricardoprins?label=follow%20me%20on%20Github&style=flat-square">
-  </a>
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  </a>
 </p>
+**Changelog:**<br>
+***v0.1 Initial Guide formatting*** - *Added overall structure*<br>
+***v0.2 Added data for Pets, Characters and Artifacts*** - *Based on data from* **joannaww** and **Hisi**.<br>
+***v0.3 Updated for game v. 005*** - *With a few corrections added, thanks to* **Elund**<br>
+***v0.4 Monsters*** - *Some small corrections to skills, added future sections, additional contributions by* **joeywillems**<br>
+***v0.45 Small Fixes*** - *Corrected skills and added more bonuses and artifacts info, and contributions by* **greedycave**, **banjomaster** and **Shoone**<br>
+***v0.5 Updated for game v. 006*** - *Contributions by* **Aegis3d** and **Dauron**<br>
+***v0.6 Updated for game v. 007*** - *Contributions by* **Shoone**<br>
 <hr>
+**Contents:**
+*1. Characters*
+*2. Combat*
+*3. Forge*
+*4. Skills*
+*5. Pets *
+*6. Areas*
+*7. Challenges*
+*8. Artifacts*
+*9. Items*
+*10. Monsters*
+*11. Tips & Tricks*
 
-## Contents
- * [Characters](#characters)
- * [Combat](#combat)
- * [Forge](#forge)
- * [Skills](#skills)
- * [Pets](#pets)
- * [Areas](#areas)
- * [Challenges](#challenges)
- * [Artifacts](#artifacts)
- * [Items](#items)
- * [Monsters](#monsters)
- * [Tips and Tricks](#tips-and-tricks)
+# 1.  Characters
 
-## Characters
-###### [_back to top_](#contents)
 All character bonuses reach their max at lvl 50.
 
 | Stat increase per level:
@@ -45,12 +47,10 @@ All character bonuses reach their max at lvl 50.
 | Skeleton | +1500 max HP, +200 END, +200 WIS, +7.5% CC Resist
 | Light Elf | +10% physical/magical damage, +10% dodge
 
-## Combat
-###### [_back to top_](#contents)
+# 2.  Combat
 Coming soon
 
-## Forge
-###### [_back to top_](#contents)
+# 3.  Forge
 
 At the Forge, you have two following options: Craft, and Upgrade. 
 
@@ -128,8 +128,7 @@ Recipe bonuses work in the following manner:
 | Beret | 
 | Brutish Hat | 
 
-## Skills
-###### [_back to top_](#contents)
+# 4.  Skills
 
 ###### 1-Handed Weapons
 
@@ -220,8 +219,7 @@ Recipe bonuses work in the following manner:
 | 10 | +5% first strike | +10% crit resist | +25% faster skill learning
 
 
-## Pets
-###### [_back to top_](#contents)
+# 5.  Pets
 
 ##### Normal pets:
 
@@ -267,21 +265,20 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 
 | Pet | Bonus Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Lvl 6
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Fox | +25 phys dmg | +50 phys dmg | +100 phys dmg | +150 phys dmg | +200 phys dmg
+| Fox | +25 phys dmg | +50 phys dmg | +100 phys dmg | +150 phys dmg | +200 phys dmg +3% phys dmg | +300 phys dmg +5% phys dmg 
 | Hare | +25 SPD | +50 SPD | +75 SPD | +100 SPD | +150 SPD | +200 SPD
 | Owl | +25% EXP | +50% EXP | +75% EXP | +100% EXP | +150% EXP | +250% EXP
-| Unicorn | +25 mag dmg | +50 mag dmg | +100 mag dmg | + 150 mag dmg+ | +200 mag dmg
-| Rat | +75% Gold | +100% Gold | +150% Gold | +200% Gold | +300% Gold
+| Unicorn | +25 mag dmg | +50 mag dmg | +100 mag dmg | + 150 mag dmg+ | +200 mag dmg +3% mag dmg | +300 mag dmg +5% mag dmg 
+| Rat | +75% Gold | +100% Gold | +150% Gold | +200% Gold | +300% Gold | +500% Gold
 | Dog | +75% craft mat | +100% craft mat | +150% craft mat | +200% craft mat | +300% craft mat | +500% craft mat
-| Turtle | +50% skill learning | +100% skill learning
-| Dolphin | +100 END/WIS +1% END/WIS | +150 END/WIS +1% END/WIS | +200 END/WIS +2% END/WIS
-| Lizard | +50% crit dmg | +75% crit dmg | +100% crit dmg
-| Cactus | +10% crit chance | +12.5% crit chance | +15% crit chance
+| Turtle | +50% skill learning | +100% skill learning | +150% skill learning | +200% skill learning | +250% skill learning
+| Dolphin | +100 END/WIS +1% END/WIS | +150 END/WIS +1% END/WIS | +200 END/WIS +2% END/WIS | | | +500 END/WIS +5% END/WIS |
+| Lizard | +50% crit dmg | +75% crit dmg | +100% crit dmg | +125% crit dmg | +150% crit dmg | +200% crit dmg
+| Cactus | +10% crit chance | +12.5% crit chance | +15% crit chance | +20% crit chance | +25% crit chance | +30% crit chance
 
-## Areas
-###### [_back to top_](#contents)
+# 6.  Areas
 
-| **World 1 - Noobie Grasslands** |  
+| **World 1 -  Noobie Grasslands** |  
 | ---- | ---- | ---- | 
 | **Areas** | 7 |
 | **Dungeon** | Area 5 |
@@ -304,7 +301,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 6** | lvl 660 |
 | | **Tier 7** | lvl 990 |
 
-| **World 2 - Forest of Super No Return** |  
+| **World 2 - Forest of Super No Return ** |  
 | ---- | ---- | ---- | 
 | **Areas** | 20 |
 | **Dungeon** | Area 10 |
@@ -370,8 +367,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 6** | lvl 960 |					
 | | **Tier 7** | lvl 1440 |
 
-## Challenges
-###### [_back to top_](#contents)
+# 7.  Challenges
 
 These challenges don't need to be completed in order. 
 Whenever one is completed, a bonus is unlocked. 
@@ -455,8 +451,7 @@ A bonus is unlocked when you complete one of the challenges. Please refer to the
 | 83 | ??
 | 98 | ??
 
-## Artifacts
-###### [_back to top_](#contents)
+# 8.  Artifacts
 
 Artifact shards can be obtained from bosses. All percentages in their effects below refer to chance to activate effect, unless otherwise noted.
 
@@ -488,7 +483,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 1 | 
 | 2 | 10% on attack to cast fireball dealing 500% mag dmg
 | 3 | 12% on attack to cast fireball dealing 600% mag dmg
-| 4 | 
+| 4 | 14% on attack to cast fireball dealing 700% mag dmg
 | 5 |
 
 ##### Tree
@@ -557,8 +552,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 4 |
 | 5 |
 
-## Items
-###### [_back to top_](#contents)
+# 9.  Items
 
 ##### For weapons, armor and accessories:
 
@@ -607,8 +601,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 
 More coming soon!
 
-## Monsters
-###### [_back to top_](#contents)
+# 10.  Monsters
 
 For the locations, the following standards are used:
 13 means Zone 13
@@ -638,8 +631,7 @@ For the locations, the following standards are used:
 | Scorpion | -- | -- | -- | -- | 15-20, 25-50
 | Mummy | -- | -- | -- | -- | 17-20, 27-50
 
-## Tips and Tricks
-###### [_back to top_](#contents)
+# 11.  Tips and Tricks
 Coming soon!
 ##### Builds
 
