@@ -1,33 +1,31 @@
 # The Almighty Idle Grindia Guide!
 <p align="center">
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
-  </a>
+  <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ricardoprins/idlegrindia?style=flat-square">
+  <a href="https://twitter.com/thericardoprins">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/thericardoprins?label=follow%20me%20on%20Twitter&style=flat-square">
+  </a>
+  <a href="https://github.com/ricardoprins">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ricardoprins?label=follow%20me%20on%20Github&style=flat-square">
+  </a>
 </p>
-**Changelog:**<br>
-***v0.1 Initial Guide formatting*** - *Added overall structure*<br>
-***v0.2 Added data for Pets, Characters and Artifacts*** - *Based on data from* **joannaww** and **Hisi**.<br>
-***v0.3 Updated for game v. 005*** - *With a few corrections added, thanks to* **Elund**<br>
-***v0.4 Monsters*** - *Some small corrections to skills, added future sections, additional contributions by* **joeywillems**<br>
-***v0.45 Small Fixes*** - *Corrected skills and added more bonuses and artifacts info, and contributions by* **greedycave**, **banjomaster** and **Shoone**<br>
-***v0.5 Updated for game v. 006*** - *Contributions by* **Aegis3d** and **Dauron**<br>
-***v0.6 Updated for game v. 007*** - *Contributions by* **Shoone**<br>
 <hr>
-**Contents:**
-*1. Characters*
-*2. Combat*
-*3. Forge*
-*4. Skills*
-*5. Pets *
-*6. Areas*
-*7. Challenges*
-*8. Artifacts*
-*9. Items*
-*10. Monsters*
-*11. Tips & Tricks*
 
-# 1.  Characters
+## Contents
+ * [Characters](#characters)
+ * [Combat](#combat)
+ * [Forge](#forge)
+ * [Skills](#skills)
+ * [Pets](#pets)
+ * [Areas](#areas)
+ * [Challenges](#challenges)
+ * [Artifacts](#artifacts)
+ * [Items](#items)
+ * [Monsters](#monsters)
+ * [Tips and Tricks](#tips-and-tricks)
 
+## Characters
+###### [_back to top_](#contents)
 All character bonuses reach their max at lvl 50.
 
 | Stat increase per level:
@@ -47,10 +45,12 @@ All character bonuses reach their max at lvl 50.
 | Skeleton | +1500 max HP, +200 END, +200 WIS, +7.5% CC Resist
 | Light Elf | +10% physical/magical damage, +10% dodge
 
-# 2.  Combat
+## Combat
+###### [_back to top_](#contents)
 Coming soon
 
-# 3.  Forge
+## Forge
+###### [_back to top_](#contents)
 
 At the Forge, you have two following options: Craft, and Upgrade. 
 
@@ -128,7 +128,8 @@ Recipe bonuses work in the following manner:
 | Beret | 
 | Brutish Hat | 
 
-# 4.  Skills
+## Skills
+###### [_back to top_](#contents)
 
 ###### 1-Handed Weapons
 
@@ -219,7 +220,8 @@ Recipe bonuses work in the following manner:
 | 10 | +5% first strike | +10% crit resist | +25% faster skill learning
 
 
-# 5.  Pets
+## Pets
+###### [_back to top_](#contents)
 
 ##### Normal pets:
 
@@ -276,9 +278,10 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | Lizard | +50% crit dmg | +75% crit dmg | +100% crit dmg | +125% crit dmg | +150% crit dmg | +200% crit dmg
 | Cactus | +10% crit chance | +12.5% crit chance | +15% crit chance | +20% crit chance | +25% crit chance | +30% crit chance
 
-# 6.  Areas
+## Areas
+###### [_back to top_](#contents)
 
-| **World 1 -  Noobie Grasslands** |  
+| **World 1 - Noobie Grasslands** |  
 | ---- | ---- | ---- | 
 | **Areas** | 7 |
 | **Dungeon** | Area 5 |
@@ -301,7 +304,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 6** | lvl 660 |
 | | **Tier 7** | lvl 990 |
 
-| **World 2 - Forest of Super No Return ** |  
+| **World 2 - Forest of Super No Return** |  
 | ---- | ---- | ---- | 
 | **Areas** | 20 |
 | **Dungeon** | Area 10 |
@@ -367,7 +370,8 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 6** | lvl 960 |					
 | | **Tier 7** | lvl 1440 |
 
-# 7.  Challenges
+## Challenges
+###### [_back to top_](#contents)
 
 These challenges don't need to be completed in order. 
 Whenever one is completed, a bonus is unlocked. 
@@ -451,7 +455,8 @@ A bonus is unlocked when you complete one of the challenges. Please refer to the
 | 83 | ??
 | 98 | ??
 
-# 8.  Artifacts
+## Artifacts
+###### [_back to top_](#contents)
 
 Artifact shards can be obtained from bosses. All percentages in their effects below refer to chance to activate effect, unless otherwise noted.
 
@@ -552,7 +557,8 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 4 |
 | 5 |
 
-# 9.  Items
+## Items
+###### [_back to top_](#contents)
 
 ##### For weapons, armor and accessories:
 
@@ -601,7 +607,8 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 
 More coming soon!
 
-# 10.  Monsters
+## Monsters
+###### [_back to top_](#contents)
 
 For the locations, the following standards are used:
 13 means Zone 13
@@ -631,7 +638,8 @@ For the locations, the following standards are used:
 | Scorpion | -- | -- | -- | -- | 15-20, 25-50
 | Mummy | -- | -- | -- | -- | 17-20, 27-50
 
-# 11.  Tips and Tricks
+## Tips and Tricks
+###### [_back to top_](#contents)
 Coming soon!
 ##### Builds
 
