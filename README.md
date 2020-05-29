@@ -8,6 +8,7 @@
   <a href="https://github.com/ricardoprins">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ricardoprins?label=follow%20me%20on%20Github&style=flat-square">
   </a>
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ricardoprins/idlegrindia">
 </p>
 <hr>
 
