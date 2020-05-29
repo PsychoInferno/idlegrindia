@@ -267,16 +267,16 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 
 | Pet | Bonus Lvl 1 | Lvl 2 | Lvl 3 | Lvl 4 | Lvl 5 | Lvl 6
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Fox | +25 phys dmg | +50 phys dmg | +100 phys dmg | +150 phys dmg | +200 phys dmg
+| Fox | +25 phys dmg | +50 phys dmg | +100 phys dmg | +150 phys dmg | +200 phys dmg +3% phys dmg | +300 phys dmg +5% phys dmg 
 | Hare | +25 SPD | +50 SPD | +75 SPD | +100 SPD | +150 SPD | +200 SPD
 | Owl | +25% EXP | +50% EXP | +75% EXP | +100% EXP | +150% EXP | +250% EXP
-| Unicorn | +25 mag dmg | +50 mag dmg | +100 mag dmg | + 150 mag dmg+ | +200 mag dmg
-| Rat | +75% Gold | +100% Gold | +150% Gold | +200% Gold | +300% Gold
+| Unicorn | +25 mag dmg | +50 mag dmg | +100 mag dmg | + 150 mag dmg+ | +200 mag dmg +3% mag dmg | +300 mag dmg +5% mag dmg 
+| Rat | +75% Gold | +100% Gold | +150% Gold | +200% Gold | +300% Gold | +500% Gold
 | Dog | +75% craft mat | +100% craft mat | +150% craft mat | +200% craft mat | +300% craft mat | +500% craft mat
-| Turtle | +50% skill learning | +100% skill learning
-| Dolphin | +100 END/WIS +1% END/WIS | +150 END/WIS +1% END/WIS | +200 END/WIS +2% END/WIS
-| Lizard | +50% crit dmg | +75% crit dmg | +100% crit dmg
-| Cactus | +10% crit chance | +12.5% crit chance | +15% crit chance
+| Turtle | +50% skill learning | +100% skill learning | +150% skill learning | +200% skill learning | +250% skill learning
+| Dolphin | +100 END/WIS +1% END/WIS | +150 END/WIS +1% END/WIS | +200 END/WIS +2% END/WIS | | | +500 END/WIS +5% END/WIS |
+| Lizard | +50% crit dmg | +75% crit dmg | +100% crit dmg | +125% crit dmg | +150% crit dmg | +200% crit dmg
+| Cactus | +10% crit chance | +12.5% crit chance | +15% crit chance | +20% crit chance | +25% crit chance | +30% crit chance
 
 ## Areas
 ###### [_back to top_](#contents)
@@ -488,7 +488,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 1 | 
 | 2 | 10% on attack to cast fireball dealing 500% mag dmg
 | 3 | 12% on attack to cast fireball dealing 600% mag dmg
-| 4 | 
+| 4 | 14% on attack to cast fireball dealing 700% mag dmg
 | 5 |
 
 ##### Tree
