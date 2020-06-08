@@ -478,7 +478,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 1 | 10% on attack to gain 100 shield; 10% on attack to gain 100 SPD for 5s
 | 2 | 10% on attack to gain 125 shield; 10% on attack to gain 125 SPD for 5s
 | 3 | 10% on attack to gain 150 shield; 10% on attack to gain 150 SPD for 5s
-| 4 |
+| 4 | 12% on attack to gain 175 shield; 12% on attack to gain 175 SPD for 5s
 | 5 |
 
 ##### Meteor
@@ -490,7 +490,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 2 | 10% on attack to cast fireball dealing 500% mag dmg
 | 3 | 12% on attack to cast fireball dealing 600% mag dmg
 | 4 | 14% on attack to cast fireball dealing 700% mag dmg
-| 5 |
+| 5 | 15% on attack to cast fireball dealing 1,000% mag dmg
 
 ##### Tree
 
@@ -500,7 +500,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 1 | 12% to remove 1 buff from enemy; 10% to deal 100% mag dmg
 | 2 | 15% to remove 1 buff from enemy; 10% to deal 200% mag dmg
 | 3 | 20% to remove 1 buff from enemy; 10% to deal 300% mag dmg
-| 4 |
+| 4 | 25% to remove 1 buff from enemy; 10% to deal 400% mag dmg
 | 5 |
 
 ##### Blessing
@@ -510,8 +510,8 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 0 | 10% to remove 1 debuff from self; 10% to +200 END/WIS/10s
 | 1 | 12% to remove 1 debuff from self; 12% to +250 END/WIS/10s
 | 2 | 15% to remove 1 debuff from self; 15% to 7% END/WIS/10s
-| 3 |
-| 4 |
+| 3 | 20% to remove 1 debuff from self; 20% to 8% END/WIS/10s
+| 4 | 25% to remove 1 debuff from self; 20% to 9% END/WIS/10s
 | 5 |
 
 ##### Rat
@@ -521,7 +521,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 0 | 5% on attack to fill 50% of stamina bar
 | 1 | 8% on attack to fill 70% of stamina bar
 | 2 | 10% on attack to fill 70% of stamina bar
-| 3 |
+| 3 | 10% on attack to fill 75% of stamina bar
 | 4 |
 | 5 |
 
@@ -532,7 +532,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 0 | 10% to remove 1 buff from enemy; 10% to +250 STR/INT/10s
 | 1 | 15% to remove 1 buff from enemy; 15% to +300 STR/INT/10s
 | 2 | 20% to remove 1 buff from enemy; 20% to 7% STR/INT/10s
-| 3 |
+| 3 | 25% to remove 1 buff from enemy; 20% to 8% STR/INT/10s
 | 4 |
 | 5 |
 
@@ -543,7 +543,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 0 | 5% enemy SPD -1/10min; 5% enemy STR -10/10min; 5% enemy END/WIS -10/10min
 | 1 | 5% enemy SPD -2/10min; 5% enemy STR -12/10min; 5% enemy END/WIS -15/10min
 | 2 | 5% enemy SPD -3/10min; 10% enemy STR -0.5%/10min; 10% enemy END/WIS -0.5%/10min
-| 3 |
+| 3 | 5% enemy SPD -4/10min; 12% enemy STR -0.75%/10min; 12% enemy END/WIS -0.75%/10min
 | 4 |
 | 5 |
 
@@ -554,7 +554,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 0 | Each second gain shield equal to 0.25% of max HP
 | 1 | Each second gain shield equal to 0.4% of max HP
 | 2 | Each second gain shield equal to 0.6% of max HP
-| 3 |
+| 3 | Each second gain shield equal to 0.8% of max HP
 | 4 |
 | 5 |
 
