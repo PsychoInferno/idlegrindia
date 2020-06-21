@@ -27,7 +27,7 @@
 
 ## Characters
 ###### [_back to top_](#contents)
-All character bonuses reach their max at lvl 50.
+All character bonuses reach their max at lvl 50. The bonus I'm referring to here is the one on the Stats screen, described under the attributes.
 
 | Stat increase per level:
 | ---- | ----
