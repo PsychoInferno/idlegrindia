@@ -24,6 +24,7 @@
  * [Items](#items)
  * [Monsters](#monsters)
  * [Tips and Tricks](#tips-and-tricks)
+ * [Contributors](/CONTRIBUTORS.md)
 
 ## Characters
 ###### [_back to top_](#contents)
