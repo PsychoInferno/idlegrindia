@@ -29,8 +29,8 @@
 ###### [_back to top_](#contents)
 All character bonuses reach their max at lvl 50. The bonus I'm referring to here is the one on the Stats screen, described under the attributes.
 
-| Stat increase per level:
-| ---- | ----
+| Stat increase per level: | Value
+| ---- | ---- |
 | STR/INT | +1.5 
 | END/WIS | +1 
 | Crit chance | +0.01% 
@@ -241,7 +241,7 @@ B3T(3-4) means it drops from boss in world 3 from tiers 3 and 4
 | 6 | 5100 | 500 |
 
 | Pet | Active Bonus | Passive Bonus | Shard Location |
-| ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | Fox | +100 phys dmg, +5% phys dmg | +1 phys dmg/lvl | D(1-2)T(1-4) B(1-2)T(1-4)
 | Hare | +25 SPD | +0.1% first strike/lvl | B(1-2)T(1-4)
 | Owl | +50% EXP | 1% EXP/lvl | D(1-2)T(2-4) D3T(3-4) B(1-2)T(2-4) B3T(3-4)
@@ -282,7 +282,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 ## Areas
 ###### [_back to top_](#contents)
 
-| **World 1 - Noobie Grasslands** |  
+| **World 1 - Noobie Grasslands** | . | . | 
 | ---- | ---- | ---- | 
 | **Areas** | 7 |
 | **Dungeon** | Area 5 |
@@ -305,7 +305,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 6** | lvl 660 |
 | | **Tier 7** | lvl 990 |
 
-| **World 2 - Forest of Super No Return** |  
+| **World 2 - Forest of Super No Return** | . | . |
 | ---- | ---- | ---- | 
 | **Areas** | 20 |
 | **Dungeon** | Area 10 |
@@ -324,7 +324,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 5** | lvl 420 |
 | | **Tier 6** | lvl 720 |
 
-| **World 3 - Scuzz City** |  
+| **World 3 - Scuzz City** | . | . | 
 | ---- | ---- | ---- | 
 | **Areas** | 30 |
 | **Dungeon** | Area 5 |
@@ -341,7 +341,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 5** | lvl 455 |	
 | | **Tier 6** | lvl 780 |
 
-| **World 4 - Salty Seaside** |  
+| **World 4 - Salty Seaside** | . | . | 
 | ---- | ---- | ---- | 
 | **Areas** | 40 |
 | **Dungeon** | Area 10 |
@@ -356,7 +356,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 5** | lvl 490 |
 | | **Tier 6** | lvl 840 |
 
-| **World 5 - Plains of Peril** |  
+| **World 5 - Plains of Peril** | . | . |  
 | ---- | ---- | ---- | 
 | **Areas** | 50 |
 | **Dungeon** | Area 10 |
@@ -371,7 +371,7 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 6** | lvl 960 |					
 | | **Tier 7** | lvl 1440 |
 
-| **World 6 - ???** |  
+| **World 6 - ???** | . | . | 
 | ---- | ---- | ---- | 
 | **Areas** | 60 |
 | **Dungeon** | Area 10 |
@@ -616,8 +616,8 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 
 ##### For weapons, armor and accessories:
 
-| Item Rarity |
-| ---- | ----|
+| Item | Rarity |
+| ---- | ---- |
 | Bronze | Common 
 | Silver | Uncommon 
 | Blue | Rare
@@ -626,7 +626,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 
 ##### Resources
 
-| Drop Chance per enemy lvl |
+| Drop Chance per enemy lvl | . | . |
 | ---- | ---- | ---- |
 | World Jewels | |(gem I/II/III)
 | lvl | amount | drop chance* |
