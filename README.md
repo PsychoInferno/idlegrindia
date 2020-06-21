@@ -371,6 +371,18 @@ You buy them in the shop, they give only passive bonuses and level in the follow
 | | **Tier 6** | lvl 960 |					
 | | **Tier 7** | lvl 1440 |
 
+| **World 6 - ???** |  
+| ---- | ---- | ---- | 
+| **Areas** | 60 |
+| **Dungeon** | Area 10 |
+| | *Difficulty*| |
+| | **Story** | lvl 390 |
+| | **Tier 7** | lvl 1082 |
+| **Boss** | Area 60 |
+| | *Difficulty*| |
+| | **Story** | lvl  |				
+| | **Tier 7** | lvl  |
+
 ## Challenges
 ###### [_back to top_](#contents)
 
@@ -393,8 +405,8 @@ The first table shows challenges per character, and the second shows the bonuses
 | Defeat Brutish Bull | Defeat Brutish Bull | Defeat TREE DUDE | Defeat TREE DUDE | Defeat Toothy Jimmy
 | Defeat TREE DUDE | Defeat TREE DUDE | Defeat Toothy Jimmy | Defeat Toothy Jimmy | Defeat Lifeguard Octavia
 | Defeat Toothy Jimmy | Defeat Toothy Jimmy | Defeat Lifeguard Octavia | Defeat Lifeguard Octavia | Defeat Dungeon Master Sphinx
-| Defeat Dungeon Master Sphinx | Defeat Dungeon Master Sphinx | Defeat Dungeon Master Sphinx | Defeat Dungeon Master Sphinx | ??? |
-| ??? | ??? | ??? | ??? | ??? |
+| Defeat Dungeon Master Sphinx | Defeat Dungeon Master Sphinx | Defeat Dungeon Master Sphinx | Defeat Dungeon Master Sphinx | Defeat Sarcophagus Sammy |
+| ??? | ??? | Defeat Sarcophagus Sammy | Defeat Sarcophagus Sammy | ??? |
 | ??? | ??? | ??? | ??? | ??? |
 | ??? | ??? | ??? | ??? | ??? |
 | ??? | ??? | ??? | ??? | ??? |
@@ -432,24 +444,42 @@ A bonus is unlocked when you complete one of the challenges. Please refer to the
 | 23 | Skill Slot +1
 | 24 | Gold Drop +75%	
 | 25 | Tier 4 Forge recipes
+| 26 | Unlock Unstoppable
 | 27 | EXP Gain +75%
+| 28 | SPD +25
+| 29 | Crit +5%
+| 30 | Unlock Infinite Trials
+| 31 | Unlock Bushido
 | 32 | Gold Drop +150%
 | 33 | Daily Mission resets +1
 | 34 | Exp Gain +150%
 | 35 | SPD +50
+| 36 | Unlock Dark Arts
+| 37 | Pet Exp +50%
 | 38 | +25% faster Skill learning
+| 39 | Crit Dmg +5%
 | 40 | Max Awakening +1
+| 41 | Max HP +2000
 | 42 | Gold Drop +200%
 | 43 | Crafting Material Drop +150%
 | 44 | EXP Gain +200%
+| 45 | Tier 5 Forge Recipes
+| 47 | END/WIS +500
 | 48 | +50% faster Skill learning
+| 49 | Crit +10%
+| 50 | Dungeon Sweep Unlocked
+| 51 | Max HP +10000
 | 52 | Gold drop +350%
 | 53 | Daily Mission resets +1
 | 54 | Exp Gain +250%
+| 57 | STR/INT+1000
+| 58 | Pet Exp +100%
+| 59 | Crit Dmg +30%
 | 60 | Max Awakening +1
 | 62 | Gold drop +300%
 | 63 | Crafting Material Drop +200%
 | 64 | Exp Gain +300%
+| 65 | Tier 6 Forge Recipes
 | 68 | +75% faster Skill learning
 | 78 | ??
 | 80 | Max Awakening +1
@@ -605,6 +635,12 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | W4 Gem I |
 | W4 Gem II |
 | W4 Gem III |
+| W5 Gem I |
+| W5 Gem II |
+| W5 Gem III |
+| W6 Gem I |
+| W6 Gem II |
+| W6 Gem III |
 
 More coming soon!
 
@@ -616,28 +652,32 @@ For the locations, the following standards are used:
 1-7 means Zones 1 to 7
 1,16 means Zones 1 and 16
 
-| Monster | W1 | W2 | W3 | W4 | W5
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| Slime | 1-7 | 9-10, 19-20 | 5-6, 9-10, 25-30 | 8-9, 14-15, 38 | 8, 36
-| Goblin | 2-4, 6-7 | 9-10, 19-20 | 5-6, 9-10, 26-30 | 8-9, 14-15, 38 | 8, 36
-| Wasp | 3-4, 7 | 10, 20 | 14-15, 18-20, 27-30 | 24-30, 39 | 8, 36
-| Wolf | 4, 7 | 10, 20 | 14-15, 18-20, 28-30 | 24-30, 39 | 8, 36
-| Satyr | -- | 1-20 | 7-10, 25-30 | 10-11, 14-15, 38 | 9, 37
-| Dryad | -- | 3-10, 13-20 | 7-10, 26-30 | 10-11, 14-15, 38 | 9, 37
-| Archer | -- | 5-10, 15-20 | 16-20, 27-30 | 26-30, 39  | 9, 37
-| Mage | -- | 7-10, 17-20 | 16-20, 28-30 | 26-30, 39 | 9, 37
-| Drunk | -- | -- | 1-30 | 12-15, 38 | 18, 38
-| Thief | -- | -- | 3-10, 12-20, 22-30 | 12-15, 38 | 18, 38
-| Assassin | -- | -- | 13-20, 23-30 | 28-30, 39 | 18, 38
-| Enforcer | -- | -- | 24-30 | 28-30, 39  | 18, 38
-| Crab | -- | -- | -- | 1-40 | 19, 39
-| Fish | -- | -- | -- | 4-40 | 19, 39
-| Mermaid | -- | -- | -- | 20-40 | 19, 39
-| Merman | -- | -- | -- | 20-40 | 19, 39
-| Cactus | -- | -- | -- | -- | 1-50
-| Cobra | -- | -- | -- | -- | 3-10, 13-20, 23-50
-| Scorpion | -- | -- | -- | -- | 15-20, 25-50
-| Mummy | -- | -- | -- | -- | 17-20, 27-50
+| Monster | W1 | W2 | W3 | W4 | W5 | W6
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Slime | 1-7 | 9-10, 19-20 | 5-6, 9-10, 25-30 | 8-9, 14-15, 38 | 8, 36 | 15
+| Goblin | 2-4, 6-7 | 9-10, 19-20 | 5-6, 9-10, 26-30 | 8-9, 14-15, 38 | 8, 36 | 15
+| Wasp | 3-4, 7 | 10, 20 | 14-15, 18-20, 27-30 | 24-30, 39 | 8, 36 | 15
+| Wolf | 4, 7 | 10, 20 | 14-15, 18-20, 28-30 | 24-30, 39 | 8, 36 | 15
+| Satyr | -- | 1-20 | 7-10, 25-30 | 10-11, 14-15, 38 | 9, 37 | 16
+| Dryad | -- | 3-10, 13-20 | 7-10, 26-30 | 10-11, 14-15, 38 | 9, 37 | 16
+| Archer | -- | 5-10, 15-20 | 16-20, 27-30 | 26-30, 39  | 9, 37 | 16
+| Elf Mage | -- | 7-10, 17-20 | 16-20, 28-30 | 26-30, 39 | 9, 37 | 16
+| Drunk | -- | -- | 1-30 | 12-15, 38 | 18, 38 | 17
+| Thief | -- | -- | 3-10, 12-20, 22-30 | 12-15, 38 | 18, 38 | 17
+| Assassin | -- | -- | 13-20, 23-30 | 28-30, 39 | 18, 38 | 17
+| Enforcer | -- | -- | 24-30 | 28-30, 39  | 18, 38 | 17
+| Crab | -- | -- | -- | 1-40 | 19, 39 | 18
+| Fish | -- | -- | -- | 4-40 | 19, 39 | 18
+| Mermaid | -- | -- | -- | 20-40 | 19, 39 | 18
+| Merman | -- | -- | -- | 20-40 | 19, 39 | 18
+| Cactus | -- | -- | -- | -- | 1-50 | 19
+| Cobra | -- | -- | -- | -- | 3-10, 13-20, 23-50 | 19
+| Scorpion | -- | -- | -- | -- | 15-20, 25-50 | 19
+| Mummy | -- | -- | -- | -- | 17-20, 27-50 | 19
+| Vampire | -- | -- | -- | -- | -- | 1-60
+| Eyeball | -- | -- | -- | -- | -- | 1-60
+| Skeleton Mage | -- | -- | -- | -- | -- | 1-60
+| Zombie | -- | -- | -- | -- | -- | 2-60
 
 ## Tips and Tricks
 ###### [_back to top_](#contents)
