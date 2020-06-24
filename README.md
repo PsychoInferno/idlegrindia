@@ -499,6 +499,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 3 | 800
 | 4 | 1992
 | 5 | 9001
+| 6 | 25000
 
 ##### Bull
 
@@ -563,7 +564,7 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 1 | 15% to remove 1 buff from enemy; 15% to +300 STR/INT/10s
 | 2 | 20% to remove 1 buff from enemy; 20% to 7% STR/INT/10s
 | 3 | 25% to remove 1 buff from enemy; 20% to 8% STR/INT/10s
-| 4 |
+| 4 | 35% to remove 1 buff from enemy; 20% to 9% STR/INT/10s
 | 5 |
 
 ##### Lifeguard 
@@ -585,6 +586,28 @@ Artifact shards can be obtained from bosses. All percentages in their effects be
 | 1 | Each second gain shield equal to 0.4% of max HP
 | 2 | Each second gain shield equal to 0.6% of max HP
 | 3 | Each second gain shield equal to 0.8% of max HP
+| 4 |
+| 5 |
+
+##### Desert
+
+| Stars | Effect: Roll the Dice |
+| ---- | ---- |
+| 0 | "Roll the dice" with every attack
+| 1 | "Roll the dice" with every attack(good dice)
+| 2 |
+| 3 |
+| 4 |
+| 5 |
+
+##### Scarab
+
+| Stars | Effect: The Swarm |
+| ---- | ---- |
+| 0 | At the start of battle, gain +100 SPD, 5% Crit, 25% Crit Dmg, for 3 seconds
+| 1 | At the start of battle, gain +125 SPD, 10% Crit, 50% Crit Dmg, for 3 seconds
+| 2 |
+| 3 |
 | 4 |
 | 5 |
 
