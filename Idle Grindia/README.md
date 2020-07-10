@@ -440,6 +440,7 @@ A bonus is unlocked when you complete one of the challenges. Please refer to the
 | 63 | Crafting Material Drop +200%
 | 64 | Exp Gain +300%
 | 68 | +75% faster Skill learning
+| 73 | Gold drop +400%
 | 78 | ??
 | 80 | Max Awakening +1
 | 83 | ??
